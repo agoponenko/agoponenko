@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Andrei Goponenko!
 
-![Profile views](https://komarev.com/ghpvc/?username=agoponenko&label=Profile%20views&color=0e75b6&style=flat)
-
 ### About me
 
 - 🤖 Freelance **AI engineer**: chatbots, AI agents and document automation for businesses
